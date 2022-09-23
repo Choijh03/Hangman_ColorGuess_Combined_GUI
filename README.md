@@ -20,10 +20,12 @@ General rules:
 
 - User need to click correct colored button based on text, not the color of the text
 
--If user score is higher than scores in score board, user can decide to save their score to score board or not
+- If user score is higher than scores in score board, user can decide to save their score to score board or not
 
 - To end the game, simply clikc end button
 
 GUI looks:
+
+
 
 
